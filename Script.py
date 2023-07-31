@@ -23,17 +23,17 @@ Tʜɪs Bᴏᴛ ʜᴀs Lᴀᴛᴇsᴛ ᴀɴᴅ Aᴅᴠᴀɴᴄᴇᴅ Fᴇᴀᴛ�
 Where is source code? - <a href='https://github.com/1238muj/THALAPATHY-FILTER-BOT'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>
 
 
-Developer - <a href='https://t.me/creatorrio'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>
+Developer - <a href='https://t.me/creatorrio'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
 
 special Thanks To ❤️ Devs -
 
-<a href='https://t.me/creatorrio'>TEAM RIO</a></b>
+<a href='https://t.me/creatorrio'>TEAM RIO</a>
 
-<a href='https://t.me/Kgashok04'>ASHOK</a></b>
+<a href='https://t.me/Kgashok04'>ASHOK</a>
 
-<a href='https://t.me/creatorbeatz'>Jᴏᴇʟ </> TɢX</a></b>
+<a href='https://t.me/creatorbeatz'>Jᴏᴇʟ </> TɢX</a>
 
-<a href='https://t.me/'>Teamevamaria</a></b>
+<a href='https://t.me/'>Teamevamaria</a>
 """
 
 
