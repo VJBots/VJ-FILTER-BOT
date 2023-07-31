@@ -33,5 +33,6 @@ aiohttp
  wheel 
  ujson 
  wget 
- pytz 
+ pytz
+ dnspython==2.3.0
  
