@@ -11,3 +11,27 @@ shortzy
 datetime
 pytz
 aiohttp
+
+
+#---ytdl----# 
+ youtube-search-python 
+ youtube-search 
+ yt-dlp==2023.2.17 
+  
+  
+ #---others----# 
+ opencv-python-headless==4.7.0.68 
+ googletrans==3.1.0a0 
+ telegraph==2.2.0 
+ python-dotenv==0.21.1 
+ gTTS==2.3.1 
+ speedtest==0.0.1 
+ humanize==4.6.0 
+ Pillow==9.4.0 
+ psutil==5.9.4 
+ NumPy 
+ wheel 
+ ujson 
+ wget 
+ pytz 
+ 
