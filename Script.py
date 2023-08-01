@@ -1,12 +1,12 @@
 class script(object):
-    START_TXT = """<b>Hᴇʟʟᴏ {},
-Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇs, Jᴜsᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ As Aᴅᴍɪɴ Aɴᴅ Eɴᴊᴏʏ 😍</b>"""
+    START_TXT = """<b>Hᴇʟʟᴏ {},Nanbha and Nanbis❤️ Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, Iam Advanced and Powerfull movie provide bot Just Add Tome in your own group With Admin permission I can provide movies in your 
+Movie Group😍</b>"""
 
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>⍟───[ MY ᴅᴇᴛᴀɪʟꜱ ]───⍟
-‣ ᴍʏ ɴᴀᴍᴇ : <a href='https://t.me/Tamilmoviesrio_bot'>𝗧𝗛𝗔𝗟𝗔𝗣𝗔𝗧𝗛𝗬</a> 
+‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/{}>{}</a>
  ‣ My best friend : <a href='tg://settings'>ᴛʜɪs ᴘᴇʀsᴏɴ</a> 
  ‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/creatorrio'>RIO NETWORKS</a> 
  ‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
@@ -27,13 +27,13 @@ Developer - <a href='https://t.me/creatorrio'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
 
 special Thanks To ❤️ Devs -
 
-<a href='https://t.me/creatorrio'>TEAM RIO</a>
+-Dev 1 [Owner of this bot ]<a href='https://t.me/creatorrio'>TEAM RIO</a>
 
-<a href='https://t.me/Kgashok04'>ASHOK</a>
+-Dev 2 [Adding Some Latest Features] <a href='https://t.me/Kgashok04'>ASHOK</a>
 
-<a href='https://t.me/creatorbeatz'>Jᴏᴇʟ </> TɢX</a>
+-Dev 3 <a href='https://t.me/creatorbeatz'>Jᴏᴇʟ </> TɢX</a>
 
-<a href='https://t.me/'>Teamevamaria</a>
+- Dev 4 <a href='https://t.me/TeamEvamaria'>TEAM EVAMARIA</a>
 """
 
 
