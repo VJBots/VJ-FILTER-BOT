@@ -158,7 +158,7 @@ Use these settings when adding a monitor:</b>
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/TeamHMT/Auto-search-tamil-bot
+git clone https://github.com/1238muj/THALAPATHY-FILTER-BOT
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
