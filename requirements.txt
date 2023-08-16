@@ -1,23 +1,30 @@
-pyrogram>=2.0.30
-tgcrypto
-pymongo[srv]==3.12.3
-motor==2.5.1
-marshmallow==3.14.1
-umongo==3.0.1
-requests
-bs4
-git+https://github.com/Joelkb/cinemagoer
-shortzy
-datetime
-pytz
-aiohttp
+pyrogram>=2.0.30 
+ tgcrypto 
+ pymongo[srv]==3.12.3 
+ motor==2.5.1 
+ marshmallow==3.14.1 
+ umongo==3.0.1 
+ requests 
+ bs4 
+ git+https://github.com/Joelkb/cinemagoer 
+ shortzy 
+ datetime 
+ pytz 
+ aiohttp
 
-
-#---ytdl----# 
+#---master---# 
+ #Telethroid==0.0.10 
+ PyLeaves==1.0.2 
+  
+  
+ 
+ #---ytdl----# 
  youtube-search-python 
  youtube-search 
  yt-dlp==2023.2.17 
   
+ #---imdb---# 
+ cinemagoer==2023.5.1 
   
  #---others----# 
  opencv-python-headless==4.7.0.68 
@@ -34,5 +41,6 @@ aiohttp
  ujson 
  wget 
  pytz
- dnspython==2.3.0
- 
+
+
+  
