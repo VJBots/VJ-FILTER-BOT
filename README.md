@@ -106,7 +106,9 @@
 * `PICS`: Telegraph links of images to show in start message.( Multiple images can be used separated by space )
 * `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made.Separate multiple IDs by space
 * Check [info.py](https://github.com/1238muj/THALAPATHY-FILTER-BOT/blob/main/info.py) for more optional variables
-
+* `GRP_LINK`: ᴀᴅᴅ ʏᴏᴜʀ ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ ʟɪɴᴋ..
+* `CHNL_LINK`: ᴀᴅᴅ ʏᴏᴜʀ ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ ʟɪɴᴋ..
+* `SUPPORT_CHAT`: ᴀᴅᴅ ʏᴏᴜʀ ꜱᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ ᴜꜱᴇʀɴᴀᴀᴍᴇ   ᴡɪᴛʜᴏᴜᴛ(@)
 
 <details><summary>Deploy To Heroku</summary>
 <p>
