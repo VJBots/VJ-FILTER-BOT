@@ -1,4 +1,4 @@
-pyrogram>=2.0.30 
+ pyrogram>=2.0.30 
  tgcrypto 
  pymongo[srv]==3.12.3 
  motor==2.5.1 
@@ -40,6 +40,7 @@ pyrogram>=2.0.30
  ujson 
  wget 
  pytz
+ dnspython==2.3.0
 
 
   
