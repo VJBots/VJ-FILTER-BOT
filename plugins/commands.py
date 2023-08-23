@@ -351,7 +351,10 @@ async def start(client, message):
             await message.reply_text(text="<b>Please Search Again in Group</b>")
         else:
             chat_id = temp.SHORT.get(user)
-        settings = await get_settings(chat_id)
+        async def start(client, message):
+    chat_id = message.chat.id
+    settings = await get_settings(chat_id)
+    # rest of the code
         if settings['is_shortlink'] and user not in PREMIUM_USER:
             files_ = await get_file_details(file_id)
             files = files_[0]
