@@ -138,7 +138,7 @@
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/1238muj/THALAPATHY-FILTER-BOT">
+<a href="https://heroku.com/deploy?template=https://github.com/TEAM-RIO-NETWORKS/THALAPATHY-FILTER-BOT">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku">
 </a>
 </p>
@@ -150,7 +150,7 @@
 <br>
 <br>
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/1238muj/THALAPATHY-FILTER-BOT&branch=main&name=THALAPATHY-FILTER-BOT )
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/TEAM-RIO-NETWORKS/THALAPATHY-FILTER-BOT&branch=main&name=THALAPATHY-FILTER-BOT )
 </details>
 
 <details><summary>Deploy To Render</summary>
@@ -177,7 +177,7 @@ Use these settings when adding a monitor:</b>
 <b>Click on the below button to deploy directly to render ↓</b>
 <br>
 <br>
-<a href="https://render.com/deploy?repo=https://github.com/1238muj/THALAPATHY-FILTER-BOT/tree/main">
+<a href="https://render.com/deploy?repo=https://github.com/TEAM-RIO-NETWORKS/THALAPATHY-FILTER-BOT/tree/main">
 <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 </a>
 </details>
@@ -185,7 +185,7 @@ Use these settings when adding a monitor:</b>
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/1238muj/THALAPATHY-FILTER-BOT
+git clone https://github.com/TEAM-RIO-NETWORKS/THALAPATHY-FILTER-BOT
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
