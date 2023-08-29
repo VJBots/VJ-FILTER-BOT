@@ -43,6 +43,7 @@ requests
  wget 
  pytz
  aiofiles
+ dnspython==2.3.0
  ### googletrans==4.0.0-rc1 ###
 python-decouple
 ffmpeg-python>=0.2.0
