@@ -1,4 +1,4 @@
- pyrogram>=2.0.30 
+pyrogram>=2.0.30 
  tgcrypto 
  pymongo[srv]==3.12.3 
  motor==2.5.1 
@@ -19,11 +19,15 @@
   
  
  #---ytdl----# 
- youtube-search-python 
- youtube-search 
- yt-dlp==2023.2.17 
+ ffmpeg
+youtube_search
+youtube-search-python==1.4.6
+yt-dlp
+youtube-dl
+requests 
   
- 
+ #---imdb---# 
+ cinemagoer==2023.5.1 
   
  #---others----# 
  opencv-python-headless==4.7.0.68 
@@ -40,7 +44,18 @@
  ujson 
  wget 
  pytz
- dnspython==2.3.0
+ aiofiles
+ ### googletrans==4.0.0-rc1 ###
+python-decouple
+ffmpeg-python>=0.2.0
+ytthumb
+
+jinja2
+apscheduler
+pyshorteners
+pyromod
+colorama
+
 
 
   

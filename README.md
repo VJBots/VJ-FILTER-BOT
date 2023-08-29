@@ -45,34 +45,9 @@
 - [x] 𝑆𝑝𝑒𝑙𝑙𝑖𝑛𝑔 𝐶ℎ𝑒𝑐𝑘 𝐹𝑒𝑎𝑡𝑢𝑟𝑒
 - [x] 𝐹𝑖𝑙𝑒 𝑆𝑡𝑜𝑟𝑒
 - [x] 𝐴𝑢𝑡𝑜 𝐷𝑒𝑙𝑒𝑡𝑒
-- [x] ꜱᴏɴɢ ᴅᴏᴡɴʟᴏᴀᴅ ꜰᴇᴀᴛᴜʀᴇ
-- [x] ʏᴏᴜᴛᴜʙᴇ ᴠɪᴅᴇᴏ ᴅᴏᴡɴʟᴏᴀᴅ ꜰᴇᴀᴛᴜʀᴇ
-- [x] ᴛᴇʟᴇɢʀᴘʜ ɢᴇɴᴇʀᴀᴛᴏʀ
-- [x] ᴘᴀꜱꜱᴡᴏʀᴅ ɢᴇɴᴇʀᴀᴛᴏʀ
-- [x] ᴊꜱᴏɴ ɢᴇɴᴇʀᴀᴛᴏʀ
-- [x] ꜱᴏɴɢ ᴛᴏ ʟʏʀɪᴄꜱ ɢᴇɴᴇʀᴀᴛᴏʀ
-- [x] ꜱᴛʏʟɪꜱʜ ᴀɴᴅ ᴄᴏᴏʟ ꜰᴏɴᴛ ɢᴇɴᴇʀᴀᴛᴏʀ
-- [x] ᴛᴇxᴛ ᴛᴏ ꜱᴘᴇᴇᴄʜ ꜰᴇᴀᴛᴜʀᴇ
-- [x] ᴀʟɪᴠᴇ ᴄᴏᴍᴍᴀɴᴅ ᴀᴠᴀɪʟᴀʙʟᴇ
-- [x] ᴄᴜꜱᴛᴏᴍ ꜱʜᴏʀᴛɴᴇʀ ꜰᴇᴀᴛᴜʀᴇ
-- [x] ᴄᴜꜱᴛᴏᴍ ꜱᴇᴛ ᴛᴜᴛᴏʀɪᴀʟ ꜰᴇᴀᴛᴜʀᴇ
-- [x] ᴘᴏꜱᴛ ꜱʜᴏʀᴛɴᴇʀ ꜰᴇᴀᴛᴜʀᴇ 
-- [x] ʀᴇᴍᴏᴠᴇ ᴜꜱᴇʀɴᴀᴍᴇ ɪɴ ꜰɪʟᴇ ɪɴᴅᴇxɪɴɢ
-- [x] ᴀᴅᴅ ᴄᴜꜱᴛᴏᴍ ᴜꜱᴇʀɴᴀᴍᴇ ʏᴏᴜʀ ꜰɪʟᴇ
-- [x] ꜱʜʀᴇɪᴜꜱ ꜱʜᴏʀᴛɴᴇʀ ꜱᴜᴘᴘᴏʀᴛ
-- [x] ᴄᴜꜱᴛᴏᴍ ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ ᴇɴᴀʙʟᴇᴅ
-- [x] 𝑆ᴇɴᴅ ᴀʟʟ ᴀᴜᴛᴏ ᴅᴇʟᴇᴛᴇ ꜱᴜᴘᴘᴏʀᴛ 
-- [x] ꜱᴇɴᴅ ᴀʟʟ ꜱʜᴏʀᴛɴᴇʀ ꜱᴜᴘᴘᴏʀᴛ
-- [x] ᴍᴏʀᴇ ꜰᴇᴀᴛᴜʀᴇꜱ ᴀᴠᴀɪʟᴀʙʟᴇ ᴄʜᴇᴄᴋ ʀᴇᴘᴏ
-- [x] ᴀɴᴅ ᴍᴏʀᴇ ꜰᴇᴀᴛᴜʀᴇꜱ ᴄᴏᴍɪɴɢ ꜱᴏᴏɴ ꜱᴛᴀʏ ᴍʏ ᴜᴘᴅᴀᴛᴇꜱ
+- [x] 𝐴𝑛𝑑 𝑀𝑜𝑟𝑒...
 
-
-
-
-
-
-
-<b>𝑇𝑜 𝑘𝑛𝑜𝑤 𝑎𝑏𝑜𝑢𝑡 𝑎𝑙𝑙 𝑓𝑒𝑎𝑡𝑢𝑟𝑒𝑠, 𝐽𝑜𝑖𝑛 𝑜𝑢𝑟 <a href='https://telegram.me/Teamrioupdates'>𝑢𝑝𝑑𝑎𝑡𝑒𝑠 𝑐ℎ𝑎𝑛𝑛𝑒𝑙</a>.</b>
+<b>𝑇𝑜 𝑘𝑛𝑜𝑤 𝑎𝑏𝑜𝑢𝑡 𝑎𝑙𝑙 𝑓𝑒𝑎𝑡𝑢𝑟𝑒𝑠, 𝐽𝑜𝑖𝑛 𝑜𝑢𝑟 <a href='https://telegram.me/TeamHMT_Bots'>𝑢𝑝𝑑𝑎𝑡𝑒𝑠 𝑐ℎ𝑎𝑛𝑛𝑒𝑙</a>.</b>
 
 ## 𝐶𝑜𝑚𝑚𝑎𝑛𝑑𝑠
 ```
@@ -130,15 +105,13 @@
 ### Optional Variables
 * `PICS`: Telegraph links of images to show in start message.( Multiple images can be used separated by space )
 * `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made.Separate multiple IDs by space
-* Check [info.py](https://github.com/1238muj/THALAPATHY-FILTER-BOT/blob/main/info.py) for more optional variables
-* `GRP_LINK`: ᴀᴅᴅ ʏᴏᴜʀ ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ ʟɪɴᴋ..
-* `CHNL_LINK`: ᴀᴅᴅ ʏᴏᴜʀ ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ ʟɪɴᴋ..
-* `SUPPORT_CHAT`: ᴀᴅᴅ ʏᴏᴜʀ ꜱᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ ᴜꜱᴇʀɴᴀᴍᴇ   ᴡɪᴛʜᴏᴜᴛ(@)
+* Check [info.py](https://github.com/TeamHMT/Auto-search-tamil-bot/blob/main/info.py) for more optional variables
+
 
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/TEAM-RIO-NETWORKS/THALAPATHY-FILTER-BOT">
+<a href="https://heroku.com/deploy?template=https://github.com/TeamHMT/Auto-search-tamil-bot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku">
 </a>
 </p>
@@ -150,7 +123,7 @@
 <br>
 <br>
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/TEAM-RIO-NETWORKS/THALAPATHY-FILTER-BOT&branch=main&name=THALAPATHY-FILTER-BOT )
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/TeamHMT/Auto-search-tamil-bot&branch=main&name=Auto-search-tamil-bot)
 </details>
 
 <details><summary>Deploy To Render</summary>
@@ -177,7 +150,7 @@ Use these settings when adding a monitor:</b>
 <b>Click on the below button to deploy directly to render ↓</b>
 <br>
 <br>
-<a href="https://render.com/deploy?repo=https://github.com/TEAM-RIO-NETWORKS/THALAPATHY-FILTER-BOT/tree/main">
+<a href="https://render.com/deploy?repo=https://github.com/TeamHMT/Auto-search-tamil-bot/tree/main">
 <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 </a>
 </details>
@@ -185,7 +158,7 @@ Use these settings when adding a monitor:</b>
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/TEAM-RIO-NETWORKS/THALAPATHY-FILTER-BOT
+git clone https://github.com/TeamHMT/Auto-search-tamil-bot
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
