@@ -25,9 +25,7 @@ youtube-search-python==1.4.6
 yt-dlp
 youtube-dl
 requests 
-  
- #---imdb---# 
- cinemagoer==2023.5.1 
+  
   
  #---others----# 
  opencv-python-headless==4.7.0.68 
