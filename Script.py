@@ -439,7 +439,7 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 BOT WORKING PROPERLY"""
  
     TAMILINFO = """
-ஏய் {messagefromuser.mention}
+ஏய் {message.from_user.mention}
 
  இப்போது டெலிகிராமிலும் பணம் சம்பாதிக்கலாம்.
 
@@ -465,7 +465,7 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 மேலும் உங்கள் குழுவில் பயிற்சி வீடியோ தொகுப்பு ஆகிடும்..."""
 
     ENGLISHINFO = """
-Hey {messagefromuser.mention}
+Hey {message.from_user.mention}
 
  Now you can earn money on Telegram too.
 
@@ -491,7 +491,7 @@ Hey {messagefromuser.mention}
 Also your team will be training video collection..."""
 
     TELUGUINFO = """
-హే {messagefromuser.mention}
+హే {message.from_user.mention}
 
  ఇప్పుడు మీరు టెలిగ్రామ్‌లో కూడా డబ్బు సంపాదించవచ్చు.
 
@@ -517,7 +517,7 @@ Also your team will be training video collection..."""
 అలాగే మీ బృందం వీడియో సేకరణకు శిక్షణ ఇస్తుంది..."""
 
     HINDIINFO = """
-अरे {messagefromuser.mention}
+अरे {message.from_user.mention}
 
  अब आप टेलीग्राम पर भी पैसे कमा सकते हैं।
 
@@ -543,7 +543,7 @@ Also your team will be training video collection..."""
 साथ ही आपकी टीम वीडियो संग्रह का प्रशिक्षण भी देगी..."""
 
     MALAYALAMINFO = """
-ഹേയ് {messagefromuser.mention}
+ഹേയ് {message.from_user.mention}
 
  ഇപ്പോൾ നിങ്ങൾക്ക് ടെലിഗ്രാമിലും പണം സമ്പാദിക്കാം.
 
@@ -569,7 +569,7 @@ Also your team will be training video collection..."""
 നിങ്ങളുടെ ടീം വീഡിയോ ശേഖരണവും പരിശീലിപ്പിക്കും..."""
 
     URTUINFO = """
- {messagefromuser.mention}
+ {message.from_user.mention}
 
  اب آپ ٹیلی گرام پر بھی پیسے کما سکتے ہیں۔
 
@@ -595,7 +595,7 @@ Also your team will be training video collection..."""
 نیز آپ کی ٹیم ویڈیو جمع کرنے کی تربیت دے گی..."""
 
     GUJARATIINFO = """
-અરે {messagefromuser.mention}
+અરે {message.from_user.mention}
 
  હવે તમે ટેલિગ્રામ પર પણ પૈસા કમાઈ શકો છો.
 
@@ -621,7 +621,7 @@ Also your team will be training video collection..."""
 તેમજ તમારી ટીમ વિડિયો કલેક્શનની તાલીમ આપશે..."""
 
     KANNADAINFO = """
-ಹೇ {messagefromuser.mention}
+ಹೇ {message.from_user.mention}
 
  ಈಗ ನೀವು ಟೆಲಿಗ್ರಾಮ್‌ನಲ್ಲಿಯೂ ಹಣ ಗಳಿಸಬಹುದು.
 
@@ -647,7 +647,7 @@ Also your team will be training video collection..."""
 ನಿಮ್ಮ ತಂಡವು ವೀಡಿಯೋ ಸಂಗ್ರಹಣೆಗೆ ತರಬೇತಿ ನೀಡಲಿದೆ..."""
 
     BANGLADESHINFO = """
-আরে {messagefromuser.mention}
+আরে {message.from_user.mention}
 
  এখন আপনি টেলিগ্রামেও অর্থ উপার্জন করতে পারেন।
 
@@ -673,7 +673,7 @@ Also your team will be training video collection..."""
 এছাড়াও আপনার দল ভিডিও সংগ্রহের প্রশিক্ষণ দেবে..."""
 
     ARABICINFO = """
-{messagefromuser.mention}
+{message.from_user.mention}
 
  الآن يمكنك كسب المال على Telegram أيضًا.
 
