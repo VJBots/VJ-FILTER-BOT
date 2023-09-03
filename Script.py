@@ -188,7 +188,7 @@ Nᴀᴍᴇ - {}"""
 
     MELCOW_ENG = """<b>Hᴇʟʟᴏ {} 😍, Aɴᴅ Wᴇʟᴄᴏᴍᴇ Tᴏ {} Gʀᴏᴜᴘ ❤️</b>"""
 
-    SHORTLINKINFO = """
+    SHORTLINK_INFO = """
 🫵 Select Your Language And Earn Money 💰"""
 
     REQINFO = """
@@ -697,6 +697,10 @@ Also your team will be training video collection..."""
  الخبرة: /set_tutorial رابط الفيديو
 
 كما سيقوم فريقك بتدريب مجموعة الفيديو..."""
+
+    LANINFO = """
+👇select your language👇"""
+
 
 
 
