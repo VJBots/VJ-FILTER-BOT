@@ -1289,7 +1289,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
                     InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://telegram.me/{temp.U_NAME}?startgroup=true')
                 ],[
-                    InlineKeyboardButton('Eᴀʀɴ Mᴏɴᴇʏ 💸', callback_data="shortlink_info"),
+                    InlineKeyboardButton('Eᴀʀɴ Mᴏɴᴇʏ 💸', callback_data="shortlinkinfo"),
                     InlineKeyboardButton('⌬ Mᴏᴠɪᴇ Gʀᴏᴜᴘ', url=GRP_LNK)
                 ],[
                     InlineKeyboardButton('〄 Hᴇʟᴘ', callback_data='help'),
@@ -1402,7 +1402,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "source":
         buttons = [[
-            InlineKeyboardButton('About', callback_data='about')
+            InlineKeyboardButton('About BOT', callback_data='about')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await client.edit_message_media(
@@ -1571,10 +1571,22 @@ async def cb_handler(client: Client, query: CallbackQuery):
             reply_markup=reply_markup,
             parse_mode=enums.ParseMode.HTML
         )
-    elif query.data == "shortlink_info":
+    elif query.data == "shortlinkinfo":
             btn = [[
-                    InlineKeyboardButton("⟸ Bᴀᴄᴋ", callback_data="start"),
-                    InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="telegram.me/creatorrio")
+                    InlineKeyboardButton("👇Select Your Language 👇", callback_data="shortlinkinfo"),
+        ], [
+InlineKeyboardButton("Tamil", callback_data="tamilearn")
+InlineKeyboardButton("English", callback_data="englishearn")
+InlineKeyboardButton("Hindi", callback_data="hindiearn")
+        ], [
+InlineKeyboardButton("Malayalam", callback_data="malayalamearn")
+InlineKeyboardButton("Urdu", callback_data="urduearn")
+InlineKeyboardButton("Bangla", callback_data="bangladeshearn")
+        ], [
+InlineKeyboardButton("Telugu", callback_data="teluguearn")
+InlineKeyboardButton("Kannada", callback_data="kannadaearn")
+InlineKeyboardButton("Arabic", callback_data="arabicearn")
+InlineKeyboardButton("Gujarati", callback_data="gujaratiearn")        
                   ]]
             await client.edit_message_media(
                 query.message.chat.id, 
