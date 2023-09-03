@@ -1585,10 +1585,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
         ], [
             InlineKeyboardButton("Telugu", callback_data="telugu_info"),
             InlineKeyboardButton("Kannada", callback_data="kannada_info"),
-            InlineKeyboardButton("Arabic", callback_data="arabic_info"),
-            InlineKeyboardButton("Gujarati", callback_data="gujarati_info")
-        ], [
-            InlineKeyboardbutton("⟸ Bᴀᴄᴋ", callback data="start")
+            InlineKeyboardButton("Gujarati", callback_data="gujarati_info"),
+            InlineKeyboardButton("⟸ Bᴀᴄᴋ", callback_data="start")
             ]]
             await client.edit_message_media(
                 query.message.chat.id, 
