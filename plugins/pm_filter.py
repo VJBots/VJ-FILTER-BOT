@@ -1289,7 +1289,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
                     InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://telegram.me/{temp.U_NAME}?startgroup=true')
                 ],[
-                    InlineKeyboardButton('Eᴀʀɴ Mᴏɴᴇʏ 💸', callback_data="shortlinkinfo"),
+                    InlineKeyboardButton('Eᴀʀɴ Mᴏɴᴇʏ 💸', callback_data="shortlink_info"),
                     InlineKeyboardButton('⌬ Mᴏᴠɪᴇ Gʀᴏᴜᴘ', url=GRP_LNK)
                 ],[
                     InlineKeyboardButton('〄 Hᴇʟᴘ', callback_data='help'),
@@ -1571,9 +1571,9 @@ async def cb_handler(client: Client, query: CallbackQuery):
             reply_markup=reply_markup,
             parse_mode=enums.ParseMode.HTML
         )
-    elif query.data == "shortlinkinfo":
+    elif query.data == "shortlink_info":
             btn = [[
-                InlineKeyboardButton("👇Select Your Language 👇", callback_data="shortlinkinfo")
+                InlineKeyboardButton("👇Select Your Language 👇", callback_data="laninfo")
         ], [
             InlineKeyboardButton("Tamil", callback_data="tamilearn"),
             InlineKeyboardButton("English", callback_data="englishearn"),
