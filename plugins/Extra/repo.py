@@ -1,5 +1,4 @@
-#codes created by @lallu_tg
-#use this codes with proper credits
+
 
 
 import logging
