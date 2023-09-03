@@ -1572,22 +1572,22 @@ async def cb_handler(client: Client, query: CallbackQuery):
             parse_mode=enums.ParseMode.HTML
         )
     elif query.data == "shortlinkinfo":
-            btn = [[                                                                 
-            InlineKeyboardButton("👇Select Your Language 👇", callback_data="shortlinkinfo"),
+            btn = [[
+                InlineKeyboardButton("👇Select Your Language 👇", callback_data="shortlinkinfo")
         ], [
-            InlineKeyboardButton("Tamil", callback_data="tamilearn")
-            InlineKeyboardButton("English", callback_data="englishearn")
+            InlineKeyboardButton("Tamil", callback_data="tamilearn"),
+            InlineKeyboardButton("English", callback_data="englishearn"),
             InlineKeyboardButton("Hindi", callback_data="hindiearn")
         ], [
-            InlineKeyboardButton("Malayalam", callback_data="malayalamearn")
-            InlineKeyboardButton("Urdu", callback_data="urduearn")
+            InlineKeyboardButton("Malayalam", callback_data="malayalamearn"),
+            InlineKeyboardButton("Urdu", callback_data="urduearn"),
             InlineKeyboardButton("Bangla", callback_data="bangladeshearn")
         ], [
-            InlineKeyboardButton("Telugu", callback_data="teluguearn")
-            InlineKeyboardButton("Kannada", callback_data="kannadaearn")
-            InlineKeyboardButton("Arabic", callback_data="arabicearn")
-            InlineKeyboardButton("Gujarati", callback_data="gujaratiearn")        
-                  ]]
+            InlineKeyboardButton("Telugu", callback_data="teluguearn"),
+            InlineKeyboardButton("Kannada", callback_data="kannadaearn"),
+            InlineKeyboardButton("Arabic", callback_data="arabicearn"),
+            InlineKeyboardButton("Gujarati", callback_data="gujaratiearn")
+            ]]
             await client.edit_message_media(
                 query.message.chat.id, 
                 query.message.id, 
