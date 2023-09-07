@@ -1849,7 +1849,12 @@ callback_data='developer'),
                     InlineKeyboardButton("⟸ Bᴀᴄᴋ", callback_data="start"),
                     InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="telegram.me/its_me_TG")
                   ]]
-       await query.message.edit_text(
+        await client.edit_message_media(
+            query.message.chat.id, 
+            query.message.id, 
+            InputMediaPhoto(random.choice(PICS))
+        )
+        await query.message.edit_text(
             text=script.GUJARATI_INFO,
             reply_markup=reply_markup,
             parse_mode=enums.ParseMode.HTML
@@ -1857,7 +1862,7 @@ callback_data='developer'),
     elif query.data == "developer":
             btn = [[
                     InlineKeyboardButton("⟸ Bᴀᴄᴋ", callback_data="source"),
-                    InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="telegram.me/its_me_TG")
+                    InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ Owner", url="telegram.me/its_me_TG")
                   ]]
             await client.edit_message_media(
                 query.message.chat.id, 
