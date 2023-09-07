@@ -1402,9 +1402,6 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "source":
         buttons = [[
-            InlineKeyboardButton('❤️ Special Thanks To Developers ❤️',
-callback_data='developer'),
-          ], [
             InlineKeyboardButton('⇚Back', callback_data='start')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -1856,7 +1853,7 @@ callback_data='developer'),
              ) 
              reply_markup = InlineKeyboardMarkup(btn) 
              await query.message.edit_text( 
-                 text=(script.DEVELOPER_TXT), 
+                 text=(script.GUJARATI_INFO), 
                  reply_markup=reply_markup, 
                  parse_mode=enums.ParseMode.HTML 
              ) 
