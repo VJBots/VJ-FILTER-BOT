@@ -1865,39 +1865,39 @@ callback_data='developer'),
                      InlineKeyboardButton("⟸ Bᴀᴄᴋ", callback_data="source"), 
                      InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="telegram.me/its_me_TG") 
                    ]]
-            await client.edit_message_media(
-                query.message.chat.id, 
-                query.message.id, 
-                InputMediaPhoto(random.choice(PICS))
-            )
-            reply_markup = InlineKeyboardMarkup(btn)
-             await query.message.edit_text(
-                text=(script.DEVELOPER_TXT),
-                reply_markup=reply_markup,
-                parse_mode=enums.ParseMode.HTML
-            )
-    elif query.data.startswith("setgs"):
-        ident, set_type, status, grp_id = query.data.split("#")
-        grpid = await active_connection(str(query.from_user.id))
-
-        if str(grp_id) != str(grpid):
-            await query.message.edit("Yᴏᴜʀ Aᴄᴛɪᴠᴇ Cᴏɴɴᴇᴄᴛɪᴏɴ Hᴀs Bᴇᴇɴ Cʜᴀɴɢᴇᴅ. Gᴏ Tᴏ /connections ᴀɴᴅ ᴄʜᴀɴɢᴇ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴄᴏɴɴᴇᴄᴛɪᴏɴ.")
-            return await query.answer(MSG_ALRT)
-
-        if set_type == 'is_shortlink' and query.from_user.id not in ADMINS:
-            return await query.answer(text=f"Hey {query.from_user.first_name}, You can't change shortlink settings for your group !\n\nIt's an admin only setting !", show_alert=True)
-
-        if status == "True":
-            await save_group_settings(grpid, set_type, False)
-        else:
-            await save_group_settings(grpid, set_type, True)
-
-        settings = await get_settings(grpid)
-
-        if settings is not None:
-            buttons = [
-                [
-                    InlineKeyboardButton('Rᴇsᴜʟᴛ Pᴀɢᴇ',
+            await client.edit_message_media( 
+                 query.message.chat.id,  
+                 query.message.id,  
+                 InputMediaPhoto(random.choice(PICS)) 
+             ) 
+             reply_markup = InlineKeyboardMarkup(btn) 
+             await query.message.edit_text( 
+                 text=(script.DEVELOPER_TXT), 
+                 reply_markup=reply_markup, 
+                 parse_mode=enums.ParseMode.HTML 
+             ) 
+     elif query.data.startswith("setgs"): 
+         ident, set_type, status, grp_id = query.data.split("#") 
+         grpid = await active_connection(str(query.from_user.id)) 
+  
+         if str(grp_id) != str(grpid): 
+             await query.message.edit("Yᴏᴜʀ Aᴄᴛɪᴠᴇ Cᴏɴɴᴇᴄᴛɪᴏɴ Hᴀs Bᴇᴇɴ Cʜᴀɴɢᴇᴅ. Gᴏ Tᴏ /connections ᴀɴᴅ ᴄʜᴀɴɢᴇ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴄᴏɴɴᴇᴄᴛɪᴏɴ.") 
+             return await query.answer(MSG_ALRT) 
+  
+         if set_type == 'is_shortlink' and query.from_user.id not in ADMINS: 
+             return await query.answer(text=f"Hey {query.from_user.first_name}, You can't change shortlink settings for your group !\n\nIt's an admin only setting !", show_alert=True) 
+  
+         if status == "True": 
+             await save_group_settings(grpid, set_type, False) 
+         else: 
+             await save_group_settings(grpid, set_type, True) 
+  
+         settings = await get_settings(grpid) 
+  
+         if settings is not None: 
+             buttons = [ 
+                 [ 
+                     InlineKeyboardButton('Rᴇsᴜʟᴛ Pᴀɢᴇ',
                                          callback_data=f'setgs#button#{settings["button"]}#{str(grp_id)}'),
                     InlineKeyboardButton('Bᴜᴛᴛᴏɴ' if settings["button"] else 'Tᴇxᴛ',
                                          callback_data=f'setgs#button#{settings["button"]}#{str(grp_id)}')
