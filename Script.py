@@ -437,9 +437,9 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 BOT WORKING PROPERLY"""
 
    TAMIL_INFO = """
- ஏய் <a href='tg://settings'>My Friend</a> 
- 
-   
+ஏய் <a href='tg://settings'>My Friend</a> 
+
+
  இப்போது டெலிகிராமிலும் பணம் சம்பாதிக்கலாம்.
 
  தந்தி மூலம் பணம் சம்பாதிக்க உங்களிடம் 1 குழு இருக்க வேண்டும்.
@@ -462,6 +462,7 @@ BOT WORKING PROPERLY"""
  Exp: /set_tutorial video link
 
 மேலும் உங்கள் குழுவில் பயிற்சி வீடியோ தொகுப்பு ஆகிடும்..."""
+
     
     ENGLISH_INFO = """
 Hey <a href='tg://settings'>My Friend</a> 
