@@ -658,8 +658,17 @@ Also your tutorial will be Added Your Group..."""
 এছাড়াও আপনার দল ভিডিও সংগ্রহের প্রশিক্ষণ দেবে..."""
 
 
-    LANINFO = """
-👇select your language👇"""
+    DEVELOPER_TXT = """
+special Thanks To ❤️ Developers -
+
+-Dev 1 [Owner of this bot ]<a href='https://t.me/its_me_TG'>ⁱᵗᶻ ᵐᵉ ᵗᵍ 🇮🇳</a>
+
+-Dev 2 <a href='https://t.me/Kgashok04'>ASHOK</a>
+
+-Dev 3 <a href='https://t.me/creatorbeatz'>Jᴏᴇʟ </> TɢX</a>
+
+- Dev 4 <a href='https://t.me/TeamEvamaria'>TEAM EVAMARIA</a>
+"""
 
 
 
