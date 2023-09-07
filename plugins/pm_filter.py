@@ -1586,7 +1586,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton("Telugu", callback_data="telugu_info"),
             InlineKeyboardButton("Kannada", callback_data="kannada_info"),
             InlineKeyboardButton("Gujarati", callback_data="gujarati_info"),
-            InlineKeyboardButton("⟸ Bᴀᴄᴋ", callback_data="start")
+            InlineKeyboardButton("⟸ Bᴀᴄᴋ", callback_data="start")
+
             ]]
             await client.edit_message_media(
                 query.message.chat.id, 
@@ -1813,7 +1814,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
             btn = [[
                     InlineKeyboardButton("⟸ Bᴀᴄᴋ", callback_data="start"),
                     InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="telegram.me/its_me_TG")
-                  ]]
+                  ]]
+
             await client.edit_message_media(
                 query.message.chat.id, 
                 query.message.id, 
@@ -1851,10 +1853,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
                  query.message.id,  
                  InputMediaPhoto(random.choice(PICS)) 
              ) 
-             reply_markup = InlineKeyboardMarkup(btn) 
-             await query.message.edit_text( 
-                 text=(script.GUJARATI_INFO), 
-                 reply_markup=reply_markup, 
+             reply_markup = InlineKeyboardMarkup(btn)
+             await query.message.edit_text(
+                 text=(script.GUJARATI_INFO),
+                 reply_markup=reply_markup,
                  parse_mode=enums.ParseMode.HTML 
              ) 
      elif query.data.startswith("setgs"): 
