@@ -1848,7 +1848,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     InlineKeyboardButton("⟸ Bᴀᴄᴋ", callback_data="start"),
                     InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="telegram.me/its_me_TG")
                   ]]
-          await client.edit_message_media(
+        
+            await client.edit_message_media(
                 query.message.chat.id, 
                 query.message.id, 
                 InputMediaPhoto(random.choice(PICS))
@@ -1859,7 +1860,6 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 reply_markup=reply_markup,
                 parse_mode=enums.ParseMode.HTML
             )
-
     elif query.data.startswith("setgs"):
         ident, set_type, status, grp_id = query.data.split("#")
         grpid = await active_connection(str(query.from_user.id))
@@ -1937,7 +1937,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     InlineKeyboardButton('✔ Oɴ' if settings["is_shortlink"] else '✘ Oғғ',
                                          callback_data=f'setgs#is_shortlink#{settings["is_shortlink"]}#{str(grp_id)}')
                 ]
-            ]
+                                                                             ]
+
             reply_markup = InlineKeyboardMarkup(buttons)
             await query.message.edit_reply_markup(reply_markup)
     await query.answer(MSG_ALRT)
