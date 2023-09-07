@@ -823,7 +823,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 logger.exception(e)
             f_caption = f_caption
         if f_caption is None:
-            f_caption = f"{files.file_name}"
+            f_caption = f"{📂Fɪʟᴇ {file_name}
+
+⚙️ size - {size}
+
+📥 Join Channel : ❰ @Moviesrequest_info ❱}"
 
         try:
             if settings['is_shortlink'] and clicked not in PREMIUM_USER:
