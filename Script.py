@@ -436,7 +436,7 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 
 BOT WORKING PROPERLY"""
 
-   TAMIL_INFO = """
+    TAMIL_INFO = """
 ஏய் <a href='tg://settings'>My Friend</a> 
 
 
@@ -449,7 +449,7 @@ BOT WORKING PROPERLY"""
 
  எப்படி மற்றும் என்ன செய்ய வேண்டும்
 
- படி 1: இந்த ROSEY-BOT போட் உங்கள் குழுவை நிர்வாகியாக்குங்கள்
+ படி 1: இந்த THALAPATHY-FILTER-BOT போட் உங்கள் குழுவை நிர்வாகியாக்குங்கள்
 
  படி 2: உங்கள் இணையதளம் மற்றும் API ஐச் சேர்க்கவும்
 
@@ -462,8 +462,7 @@ BOT WORKING PROPERLY"""
  Exp: /set_tutorial video link
 
 மேலும் உங்கள் குழுவில் பயிற்சி வீடியோ தொகுப்பு ஆகிடும்..."""
-
-    
+       
     ENGLISH_INFO = """
 Hey <a href='tg://settings'>My Friend</a> 
 
