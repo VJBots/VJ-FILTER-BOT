@@ -1871,7 +1871,7 @@ callback_data='developer'),
                 InputMediaPhoto(random.choice(PICS))
             )
             reply_markup = InlineKeyboardMarkup(btn)
-            await query.message.edit_text(
+             await query.message.edit_text(
                 text=(script.DEVELOPER_TXT),
                 reply_markup=reply_markup,
                 parse_mode=enums.ParseMode.HTML
