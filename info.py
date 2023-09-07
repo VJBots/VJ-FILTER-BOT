@@ -14,17 +14,17 @@ def is_enabled(value, default):
 # Bot information
 SESSION = environ.get('SESSION', 'Media_search')
 API_ID = int(environ.get('API_ID'))
-API_HASH = environ.get('API_HASH', '')
-BOT_TOKEN = environ.get('BOT_TOKEN', "")
+API_HASH = environ.get('API_HASH')
+BOT_TOKEN = environ.get('BOT_TOKEN')
 
 # Bot settings
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 
 PICS = (environ.get('PICS', 'https://graph.org/file/019d618abd74b2570b432.jpg')).split() #SAMPLE PIC
-NOR_IMG = environ.get("NOR_IMG", " ")
-MELCOW_VID = environ.get("MELCOW_VID", "")
-SPELL_IMG = environ.get("SPELL_IMG", "")
+NOR_IMG = environ.get("NOR_IMG")
+MELCOW_VID = environ.get("MELCOW_VID")
+SPELL_IMG = environ.get("SPELL_IMG")
 
 # Admins, Channels & Users
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '').split()]
@@ -56,13 +56,13 @@ DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in enviro
 MAX_B_TN = environ.get("MAX_B_TN", "5")
 MAX_BTN = is_enabled((environ.get('MAX_BTN', "True")), True)
 PORT = environ.get("PORT", "8080")
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/tamilmovies4Krio')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/Teamrioupdates')
-TUTORIAL = environ.get('TUTORIAL', 'https://t.me/howtodownloadmoviestamilhd/65')
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/moviesrequestfiles')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/Moviesrequest_info')
+TUTORIAL = environ.get('TUTORIAL', 'https://t.me/How_to_open_Mdisk_pro_links/2')
 IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', True))
-MSG_ALRT = environ.get('MSG_ALRT', 'Hello Nanbha and Nanbis ❤️')
-LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1001969425466'))
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'rionetworksupport')
+MSG_ALRT = environ.get('MSG_ALRT', 'Hello Everyone ❤️')
+LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1001804171666'))
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'Moviesrequest_chat')
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "False")), False)
 IMDB = is_enabled((environ.get('IMDB', "True")), True)
 AUTO_FFILTER = is_enabled((environ.get('AUTO_FFILTER', "True")), True)
@@ -75,7 +75,7 @@ LONG_IMDB_DESCRIPTION = is_enabled(environ.get("LONG_IMDB_DESCRIPTION", "False")
 SPELL_CHECK_REPLY = is_enabled(environ.get("SPELL_CHECK_REPLY", "True"), True)
 MAX_LIST_ELM = environ.get("MAX_LIST_ELM", None)
 INDEX_REQ_CHANNEL = int(environ.get('INDEX_REQ_CHANNEL', LOG_CHANNEL))
-FILE_STORE_CHANNEL = [int(ch) for ch in (environ.get('FILE_STORE_CHANNEL', '-1001929798953')).split()]
+FILE_STORE_CHANNEL = [int(ch) for ch in (environ.get('FILE_STORE_CHANNEL', '')).split()]
 MELCOW_NEW_USERS = is_enabled((environ.get('MELCOW_NEW_USERS', "True")), True)
 PROTECT_CONTENT = is_enabled((environ.get('PROTECT_CONTENT', "False")), False)
 PUBLIC_FILE_STORE = is_enabled((environ.get('PUBLIC_FILE_STORE', "True")), True)
