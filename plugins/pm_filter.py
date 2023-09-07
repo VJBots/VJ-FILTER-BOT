@@ -1855,7 +1855,7 @@ callback_data='developer'),
             InputMediaPhoto(random.choice(PICS))
         )
         await query.message.edit_text(
-            text=script.GUJARATI_INFO,
+            text=(script.GUJARATI_INFO),
             reply_markup=reply_markup,
             parse_mode=enums.ParseMode.HTML
 )
@@ -1871,7 +1871,7 @@ callback_data='developer'),
             )
             reply_markup = InlineKeyboardMarkup(btn)
             await query.message.edit_text(
-                text=(script.GUJARATI_INFO),
+                text=(script.DEVELOPER_TXT),
                 reply_markup=reply_markup,
                 parse_mode=enums.ParseMode.HTML
             )
