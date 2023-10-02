@@ -1,3 +1,8 @@
+# Don't Remove Credit @VJ_Botz
+# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
+# Ask Doubt on telegram @KingVJ01
+
+
 import os
 from plugins.helper.fotnt_string import Fonts
 from pyrogram import Client, filters
