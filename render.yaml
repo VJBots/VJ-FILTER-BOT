@@ -1,3 +1,7 @@
+# Don't Remove Credit @VJ_Botz
+# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
+# Ask Doubt on telegram @KingVJ01
+
 services:
   # A Docker web service
   - type: web
@@ -5,7 +9,7 @@ services:
     env: python
     startCommand: python3 bot.py
     buildCommand: pip3 install -U -r requirements.txt
-    repo: https://github.com/VJBots/THALAPATHY-FILTER-BOT.git # optional
+    repo: https://github.com/VJBots/VJ-FILTER-BOT.git # optional
     region: oregon # optional (defaults to oregon)
     plan: free # optional (defaults to starter)
     branch: main # optional (defaults to master)
