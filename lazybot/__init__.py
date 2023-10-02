@@ -1,4 +1,8 @@
-    #Thanks @Lazydeveloperr helping this journey 
+# Don't Remove Credit @VJ_Botz
+# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
+# Ask Doubt on telegram @KingVJ01
+
+#Thanks @Lazy helping this journey 
 import logging
 import logging.config
 logging.config.fileConfig('logging.conf')
