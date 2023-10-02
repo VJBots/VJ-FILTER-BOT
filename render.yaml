@@ -5,7 +5,7 @@
 services:
   # A Docker web service
   - type: web
-    name: THALAPATHY-FILTER-BOT 
+    name: VJ-FILTER-BOT 
     env: python
     startCommand: python3 bot.py
     buildCommand: pip3 install -U -r requirements.txt
