@@ -1,5 +1,9 @@
+# Don't Remove Credit @VJ_Botz
+# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
+# Ask Doubt on telegram @KingVJ01
+
 {
-    "name": "THALAPATHY-FILTER-BOT",
+    "name": "VJ-FILTER-BOT",
     "description": "When you going to send file on telegram channel this bot will save that in database, So you can search that easily in inline mode",
     "stack": "container",
     "keywords": [
@@ -15,8 +19,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/1238muj/THALAPATHY-FILTER-BOT",
-    "repository": "https://github.com/1238muj/THALAPATHY-FILTER-BOT",
+    "website": "https://github.com/VJBots/VJ-FILTER-BOT",
+    "repository": "https://github.com/VJBots/VJ-FILTER-BOT",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
