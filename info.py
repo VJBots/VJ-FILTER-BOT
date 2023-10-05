@@ -53,7 +53,7 @@ DATABASE_NAME = environ.get('DATABASE_NAME', "vkbotsthalpathy")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Others
-VERIFY = bool(environ.get('VERIFY', True))
+VERIFY = bool(environ.get('VERIFY', False))
 SHORTLINK_URL = environ.get('SHORTLINK_URL', 'OmegaLinks.in')
 SHORTLINK_API = environ.get('SHORTLINK_API', '1fd84c55d400dec1a58941a77714b89917ba0f6e')
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', False))
