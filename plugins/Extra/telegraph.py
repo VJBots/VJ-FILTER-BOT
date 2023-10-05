@@ -1,6 +1,6 @@
-# Don't Remove Credit @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit @My_Name_is_developer
+# Subscribe YouTube Channel For Amazing Bot @My_Name_is_developer
+# Ask Doubt on telegram @My_Name_is_developer
 
 
 import os
