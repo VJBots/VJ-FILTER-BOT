@@ -1,18 +1,18 @@
-# Don't Remove Credit @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit @My_Name_is_developer
+# Subscribe YouTube Channel For Amazing Bot @My_Name_is_developer
+# Ask Doubt on telegram @My_Name_is_developer
 
-#Thanks @Lazy helping this journey 
+#Thanks @ALAS helping this journey 
 import asyncio
 import logging
 from info import *
 from pyrogram import Client
 from util.config_parser import TokenParser
-from . import multi_clients, work_loads, LazyPrincessBot
+from . import multi_clients, work_loads, ALASBOT
 
 
 async def initialize_clients():
-    multi_clients[0] = LazyPrincessBot
+    multi_clients[0] = ALASBot
     work_loads[0] = 0
     all_tokens = TokenParser().parse_from_env()
     if not all_tokens:
