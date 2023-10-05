@@ -1,8 +1,8 @@
-# Don't Remove Credit @R_KOHLI @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit @My_Name_is_developer 
+# Subscribe YouTube Channel For Amazing Bot @My_Name_is_developer
+# Ask Doubt on telegram @My_Name_is_developer
 
-# Kanged From @TroJanZheX
+# Kanged From @My_Name_is_developer
 import asyncio
 import re
 import ast
