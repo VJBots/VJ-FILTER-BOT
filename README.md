@@ -6,4 +6,4 @@
 
 ## Telegram 
 
-* [![Contact](https://img.shields.io/static/v1?label=Contact&message=On+Telegram&color=critical)](https://t.me/Cynitesupport)
+* [![Contact](https://img.shields.io/static/v1?label=Contact&message=On+Telegram&color=critical)](https://telegram.me/KingVJ01)
