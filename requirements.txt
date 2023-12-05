@@ -11,6 +11,7 @@ pyrogram>=2.0.30
  datetime 
  pytz 
  aiohttp
+ asyncio
 
 #---master---# 
  #Telethroid==0.0.10 
