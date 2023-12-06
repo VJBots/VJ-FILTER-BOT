@@ -5,7 +5,7 @@
 if [ -z $UPSTREAM_REPO ]
 then
   echo "Cloning main Repository"
-  git clone https://github.com/VJBots/VJ-FILTER-BOT.git /VJ-FILTER-BOT 
+  git clone https://github.com/BlackDevil9605/VJ-FILTER-BOT.git /VJ-FILTER-BOT 
 else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
   git clone $UPSTREAM_REPO /VJ-FILTER-BOT 
