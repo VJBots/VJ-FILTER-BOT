@@ -1,5 +1,3 @@
-#Thanks @Lazydeveloperr helping this journey 
-
 import jinja2
 from info import *
 from lazybot import LazyPrincessBot
