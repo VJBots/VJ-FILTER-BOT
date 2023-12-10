@@ -1,4 +1,3 @@
-    #Thanks @Lazydeveloperr helping this journey 
 import logging
 import logging.config
 logging.config.fileConfig('logging.conf')
@@ -24,7 +23,7 @@ from pyrogram import Client
 from info import *
 
 
-class LazyPrincessXBot(Client):
+class Bot(Client):
 
     def __init__(self):
         super().__init__(
@@ -75,7 +74,7 @@ class LazyPrincessXBot(Client):
                 yield message
                 current += 1
       
-LazyPrincessBot = LazyPrincessXBot()
+VJBot = Bot()
 
 multi_clients = {}
 work_loads = {}
