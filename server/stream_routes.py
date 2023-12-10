@@ -8,7 +8,7 @@
 # import mimetypes
 # from aiohttp import web
 # from aiohttp.http_exceptions import BadStatusLine
-# from lazybot import multi_clients, work_loads, StreamBot
+# from bot import multi_clients, work_loads, StreamBot
 # from server.exceptions import FIleNotFound, InvalidHash
 # from zzint import StartTime, __version__
 # from ..util.custom_dl import ByteStreamer
