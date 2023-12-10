@@ -1,4 +1,3 @@
-#Thanks @Lazydeveloperr helping this journey 
 def humanbytes(size):
     # https://stackoverflow.com/a/49361727/4723940
     # 2**10 = 1024
