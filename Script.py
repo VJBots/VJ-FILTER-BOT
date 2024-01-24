@@ -10,14 +10,14 @@ class script(object):
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>⍟───[ MY ᴅᴇᴛᴀɪʟꜱ ]───⍟
-‣ ᴍʏ ɴᴀᴍᴇ : <a href=http://t.me/YS_Argon_Bot>◦•●◉✿Mʀ.Aʀɢᴏɴ✿◉●•◦</a>
+ ‣ ᴍʏ ɴᴀᴍᴇ : <a href=http://t.me/YS_Argon_Bot>◦•●◉✿Mʀ.Aʀɢᴏɴ✿◉●•◦</a>
  ‣ ᴍʏ ʙᴇsᴛ ғʀɪᴇɴᴅ : <a href='tg://settings'>ᴛʜɪs ᴘᴇʀsᴏɴ</a> 
  ‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/Raadhe_Krishnn'>ʏs ʙᴏᴛᴢ 🇮🇳</a> 
  ‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
  ‣ ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a> 
  ‣ ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
  ‣ ʙᴏᴛ sᴇʀᴠᴇʀ : <a href='https://heroku.com'>Heroku</a> 
- ‣ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : ᴠ9.5.1 [sᴛᴀʙʟᴇ]></b>"""
+ ‣ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : ᴠ𝟾.𝟽.𝟸[sᴛᴀʙʟᴇ]></b>"""
 
     SOURCE_TXT = """
 <b>Oʏᴇ Dᴇᴠᴇʟᴏᴘᴇʀ I ᴀᴍ ɴᴏᴛ ᴏᴘᴇɴ sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ.
