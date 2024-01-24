@@ -10,7 +10,7 @@ class script(object):
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>⍟───[ MY ᴅᴇᴛᴀɪʟꜱ ]───⍟
-‣ ᴍʏ ɴᴀᴍᴇ : <a href=http://t.me/YS_Argon_Bot>𝐌𝐫.𝐀𝐫𝐠𝐨𝐧🇮🇳</a>
+ ‣ ᴍʏ ɴᴀᴍᴇ : <a  href=http://t.me/YS_Argon_Bot>𝐌𝐫.𝐀𝐫𝐠𝐨𝐧🇮🇳</a>
  ‣ My best friend : <a href='tg://settings'>ᴛʜɪs ᴘᴇʀsᴏɴ</a> 
  ‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/Raadhe_Krishnn'>𝐘𝐒 𝐁𝐨𝐭𝐳 🇮🇳</a> 
  ‣ Uᴘᴅᴀᴛᴇ : <a href='https://t.me/YS_BOTZ_UPDATE'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a> 
