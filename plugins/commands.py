@@ -63,7 +63,7 @@ async def start(client, message):
                     InlineKeyboardButton('✇ Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ ✇', url=CHNL_LNK)
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)
-        m=await message.reply_sticker("CAACAgUAAxkBAAEKVaxlCWGs1Ri6ti45xliLiUeweCnu4AACBAADwSQxMYnlHW4Ls8gQMAQ") 
+        m=await message.reply_sticker("CAACAgUAAxkBAAECHYFls6QoAisUdPiYn11HNHypZ87ZfwACgwsAArx2aFamK_GuuoTcMR4E") 
         await asyncio.sleep(1)
         await m.delete()
         await message.reply_photo(
@@ -334,7 +334,7 @@ async def start(client, message):
                     InlineKeyboardButton("Verify", url=await get_token(client, message.from_user.id, f"https://telegram.me/{temp.U_NAME}?start="))
                 ]]
                 await message.reply_text(
-                    text="<b>You are not verified !\nKindly verify to continue !</b>",
+                    text="<b>⚠⚠ ‼️ᴠᴇʀɪғɪᴄᴀᴛɪᴏɴ ᴀʟᴇʀᴛ‼️ ⚠⚠/n/nᴛᴏ ᴜɴʟᴏᴄᴋ 🔓 ᴜɴʟɪᴍɪᴛᴇᴅ ᴀᴄᴄᴇss ᴛᴏ ғɪʟᴇ ғᴏʀ ᴛɪʟʟ ᴍɪᴅ ɴɪɢʜᴛ✔️/n♨️ ᴘʟᴇᴀsᴇ ᴠᴇʀɪғʏ ♨️</b>",
                     protect_content=True,
                     reply_markup=InlineKeyboardMarkup(btn)
                 )
