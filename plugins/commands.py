@@ -401,7 +401,7 @@ async def start(client, message):
                     InlineKeyboardButton("Verify", url=await get_token(client, message.from_user.id, f"https://telegram.me/{temp.U_NAME}?start="))
                 ]]
                 await message.reply_text(
-                    text="<b>You are not verified !\nKindly verify to continue !</b>",
+                    text="<b>⚠⚠ ‼️ᴠᴇʀɪғɪᴄᴀᴛɪᴏɴ ᴀʟᴇʀᴛ‼️ ⚠⚠/n/nᴛᴏ ᴜɴʟᴏᴄᴋ 🔓 ᴜɴʟɪᴍɪᴛᴇᴅ ᴀᴄᴄᴇss ᴛᴏ ғɪʟᴇ ғᴏʀ ᴛɪʟʟ ᴍɪᴅ ɴɪɢʜᴛ✔️/n♨️ ᴘʟᴇᴀsᴇ ᴠᴇʀɪғʏ ♨️</b>",
                     protect_content=True,
                     reply_markup=InlineKeyboardMarkup(btn)
                 )
@@ -426,7 +426,7 @@ async def start(client, message):
             )
             filetype = msg.media
             file = getattr(msg, filetype.value)
-            title = '@VJ_Bots  ' + ' '.join(filter(lambda x: not x.startswith('[') and not x.startswith('@'), file.file_name.split()))
+            title = '@YS_BOTZ_UPDATE  ' + ' '.join(filter(lambda x: not x.startswith('[') and not x.startswith('@'), file.file_name.split()))
             size=get_size(file.file_size)
             f_caption = f"<code>{title}</code>"
             if CUSTOM_FILE_CAPTION:
