@@ -706,7 +706,7 @@ special Thanks To ❤️ Developers -
 
 sᴇɴᴅ sᴄʀᴇᴇɴsʜᴏᴛ @ᴠ_sʙᴏᴛᴍᴀᴋᴇʀ
 
-ᴀɴʏ ᴅᴏᴜʙᴛs ᴏʀ ʜᴏᴡ ᴛᴏ ʙᴇᴄᴏᴍᴇ ᴀ ᴘʀɪᴍᴇ ᴍᴇᴍʙᴇʀ? ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ@V_Sbotmaker @VS_bots</code></b>"""
+ᴀɴʏ ᴅᴏᴜʙᴛs ᴏʀ ʜᴏᴡ ᴛᴏ ʙᴇᴄᴏᴍᴇ ᴀ ᴘʀɪᴍᴇ ᴍᴇᴍʙᴇʀ? ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </code></b>"""
 
 # Don't Remove Credit @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
