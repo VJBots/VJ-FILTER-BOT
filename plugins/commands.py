@@ -334,7 +334,7 @@ async def start(client, message):
                     InlineKeyboardButton("Verify", url=await get_token(client, message.from_user.id, f"https://telegram.me/{temp.U_NAME}?start="))
                 ]]
                 await message.reply_text(
-                    text="<b>⚠⚠ ‼️ᴠᴇʀɪғɪᴄᴀᴛɪᴏɴ ᴀʟᴇʀᴛ‼️ ⚠⚠/n/nᴛᴏ ᴜɴʟᴏᴄᴋ 🔓 ᴜɴʟɪᴍɪᴛᴇᴅ ᴀᴄᴄᴇss ᴛᴏ ғɪʟᴇ ғᴏʀ ᴛɪʟʟ ᴍɪᴅ ɴɪɢʜᴛ✔️/n♨️ ᴘʟᴇᴀsᴇ ᴠᴇʀɪғʏ ♨️</b>",
+                    text="<b>⚠⚠ ‼️ᴠᴇʀɪғɪᴄᴀᴛɪᴏɴ ᴀʟᴇʀᴛ‼️ ⚠⚠\n\nᴛᴏ ᴜɴʟᴏᴄᴋ 🔓 ᴜɴʟɪᴍɪᴛᴇᴅ ᴀᴄᴄᴇss ᴛᴏ ғɪʟᴇ ғᴏʀ ᴛɪʟʟ ᴍɪᴅ ɴɪɢʜᴛ✔️/n♨️ ᴘʟᴇᴀsᴇ ᴠᴇʀɪғʏ ♨️</b>",
                     protect_content=True,
                     reply_markup=InlineKeyboardMarkup(btn)
                 )
