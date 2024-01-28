@@ -33,7 +33,7 @@ async def start(client, message):
                     InlineKeyboardButton('✪ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url="https://t.me/YS_BOT_DISSCUSION"),
                     InlineKeyboardButton('⌬ Mᴏᴠɪᴇ Gʀᴏᴜᴘ', url='https://t.me/YS_Movvies')
                 ],[
-                  InlineKeyboardButton'ɢᴇᴛ ᴀᴅᴢ ғʀᴇᴇ ᴍᴏᴠɪᴇ🎥', callback_data='premium_txt')
+                  InlineKeyboardButton'ɢᴇᴛ ᴀᴅᴢ ғʀᴇᴇ ᴍᴏᴠɪᴇ🎥', callback_data='premium')
                 ],[
                     InlineKeyboardButton('✇ Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ ✇', url=CHNL_LNK)
                   ]]
