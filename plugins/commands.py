@@ -33,7 +33,7 @@ async def start(client, message):
                     InlineKeyboardButton('✪ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url="https://t.me/YS_BOT_DISSCUSION"),
                     InlineKeyboardButton('⌬ Mᴏᴠɪᴇ Gʀᴏᴜᴘ', url='https://t.me/YS_Movvies')
                 ],[
-                  InlineKeyboardButton('ɢᴇᴛ ᴀᴅᴢ ғʀᴇᴇ ᴍᴏᴠɪᴇ🎥', callback_data='premium')
+                  InlineKeyboardButton('ɢᴇᴛ ᴀᴅᴢ ғʀᴇᴇ ᴍᴏᴠɪᴇ🎥', callback_data='buy_premium')
                 ],[
                     InlineKeyboardButton('✇ Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ ✇', url=CHNL_LNK)
                   ]]
@@ -58,7 +58,7 @@ async def start(client, message):
                     InlineKeyboardButton('〄 Hᴇʟᴘ', callback_data='help'),
                     InlineKeyboardButton('⍟ Aʙᴏᴜᴛ', callback_data='about')
                 ],[
-                  InlineKeyboardButton('ɢᴇᴛ ᴀᴅᴢ ғʀᴇᴇ ᴍᴏᴠɪᴇ🎥', callback_data='premium')
+                  InlineKeyboardButton('ɢᴇᴛ ᴀᴅᴢ ғʀᴇᴇ ᴍᴏᴠɪᴇ🎥', callback_data='buy_premium')
                 ],[
                     InlineKeyboardButton('✇ Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ ✇', url=CHNL_LNK)
                   ]]
